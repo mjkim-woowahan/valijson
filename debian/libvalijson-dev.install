@@ -1,0 +1,2 @@
+include/valijson/* /usr/include/valijson
+include/compat/* /usr/include/valijson/compat

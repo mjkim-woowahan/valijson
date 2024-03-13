@@ -1,0 +1,13 @@
+./include/valijson/adapters
+./include/valijson/constraint_builder.hpp
+./include/valijson/constraints
+./include/valijson/exceptions.hpp
+./include/valijson/internal
+./include/valijson/schema.hpp
+./include/valijson/schema_parser.hpp
+./include/valijson/subschema.hpp
+./include/valijson/utils
+./include/valijson/validation_results.hpp
+./include/valijson/validation_visitor.hpp
+./include/valijson/validator.hpp
+./include/compat/optional.hpp
